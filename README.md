@@ -2,9 +2,9 @@
 
 ## 💼 Perfil Profissional
 
-🎓 Graduanda em **Ciência da Computação** | 6º período  
-💻 Tecnologia | Cibersegurança | Infraestrutura | Desenvolvimento  
-🔐 Interesse em **SOC, SIEM, análise de logs e segurança da informação**
+ Graduanda em **Ciência da Computação** | 6º período  
+ Tecnologia | Cibersegurança | Infraestrutura | Desenvolvimento  
+ Interesse em **SOC, SIEM, análise de logs e segurança da informação**
 
 ## 🚀 Sobre mim
 
@@ -26,13 +26,13 @@ Tenho interesse em continuar evoluindo principalmente nas áreas de:
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizada:
 
-## 👨‍💻 Linguagens: 
+##  Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
+##  Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,aws,angular,vue.js)](https://skillicons.dev)
 
-## 🗄️ Bancos de Dados: 
+##  Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,nosql)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,git)](https://skillicons.dev)<br><br>
